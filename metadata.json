@@ -1,0 +1,6 @@
+{
+  "name": "CropCargo - Rural Transport & Return Load Matching",
+  "description": "Smart rural transport, cargo booking, and return load matching platform connecting farmers, cargo owners, and commercial vehicle drivers in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
